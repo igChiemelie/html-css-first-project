@@ -1,0 +1,210 @@
+body, html{
+    margin: 0px;
+    /* background-color: indianred; */
+}
+#down p{
+    color: grey;
+}
+nav{
+    background-color: rgb(245, 244, 244);
+    padding: 3px;
+    position: fixed;
+    top:-2px ;
+    width: 100%;
+    z-index: 100;
+}
+nav ul{
+    padding: 0px;
+    /* text-align: center; */
+    margin-left: 160px;
+}
+nav ul li{
+    display: inline-block;
+    /* background-color: hotpink; */
+    padding: 3px;
+    margin-left: 25px;
+    text-align: left;
+}
+nav ul li a{
+    text-decoration: none;
+}
+.headcontainer{
+    width: 69.3%;
+    /* height: 500px; */
+    margin-left: auto;
+    margin-right: auto;
+    /* background-color: green; */
+}
+#down{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.container{
+    width: 69.3%;
+    margin-left: auto;
+    margin-right: auto;
+    /* background-color: yellow; */
+}
+#back{
+    background-image: url("../../project1/img_mountains.jpg");
+    background-repeat: no-repeat;
+    /* line-height: 130px; */
+    /* translate: 400px 0px; */
+    background-size: cover;
+    height: 400px;
+    text-align: center;
+
+}
+#play  a{
+       /* margin: 0, auto; */
+       text-decoration: none;
+       padding: 5px;
+       background-color: blue;
+       color: red;
+}
+/* #play p:not(span){
+    font-weight: larger;
+    font-size: larger;
+} */
+/* #kyj p,a{
+    margin-top: 0px;
+    margin-bottom: 0px;
+} */
+#kyj {
+    position: relative;
+    top: 120px;
+}
+.whiteTxt {
+    color: white;
+}
+#channel{
+    font-size: 2rem;
+    font-weight: bold;
+    /* margin-top: 0px;
+    margin-bottom: 0px; */
+}
+#kyj a{
+    background-color: rgb(29, 116, 216);
+    text-decoration: none;
+    
+    border: thin solid rgb(29, 116, 216);
+    font-size: 0.75rem;
+    padding: 10px 35px 10px 40px;
+}
+#kapp{
+    display: block;
+    margin-top: 5px;
+}
+#moveright{
+    /* text-align: right; */
+    /* border-bottom: 2px solid black; */
+    /* margin-bottom: 2px solid black; */
+    float: left;
+    width: 45%;
+    padding: 10px;
+    margin-top: 5px;
+}
+#moveleft{
+      float: left;
+      width: 50%;
+      text-align: right;
+      margin-left: 10px;
+      /* padding: 10px; */
+      margin-top: 14px;
+}
+.cont{
+    width: 69.3%;
+    margin-left: auto;
+    margin-right: auto;
+    /* height: 500px; */
+    /* background-color: tomato; */
+    margin-top: 60px;
+}
+#display{
+    display: block;
+
+}
+.inline{
+    float: left;
+    width: 32%;
+}
+#jpp{
+    border-left: 10px solid white;
+    border-right: 10px solid white;
+}
+#next p{
+    text-align: right;
+    margin-right: 10px;
+    padding: 10px;
+}
+footer{
+    margin-top: 100px;
+}
+#footer{
+    background-color:rgb(42, 93, 204);
+    /* padding: 15px; */
+    font-weight: bold;
+    text-transform: capitalize;
+    text-align: center;
+}
+footer #footer p{
+    display: inline-block;
+    padding: 10px;
+    margin-left: 50px;
+    margin-right: 130px;
+    text-align: center;
+}
+.row{
+    display: block;
+}
+.co{
+    float: left;
+    /* height: 200px; */
+    width: 20%;
+}
+section{
+    background-color: gray;
+    height: 650px;
+}
+.ex{
+    display: inline-block;
+    background-color: gray;
+    margin-top: 50px;
+}
+.expo{
+    float: left;
+    /* width: 40%; */
+    /* margin-right: 0px; */
+    /* border-right: 0px; */
+}
+.expo1{
+    float: left;
+    width:35%;
+    margin-top: -170px;
+    margin-left: 200px;
+}
+
+.expo2{
+    float: left;
+    width: 30%;
+}
+.expo2{
+    margin-top: -170px;
+    margin-left: 80px;
+
+}
+.contact{
+    width: 65%;
+    background-color: gray;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+}
+#copyright{
+    margin-top: 80px;
+}
+.formvideo{
+    width: 100%;
+    /* height: 10px; */
+    padding: 5px;
+}

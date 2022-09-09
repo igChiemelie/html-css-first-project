@@ -1,0 +1,139 @@
+body, html{
+    margin: 0px;
+    /* background-color: indianred; */
+}
+nav{
+    background-color: rgb(245, 244, 244);
+    padding: 3px;
+    position: fixed;
+    top:-2px ;
+    width: 100%;
+}
+nav ul{
+    padding: 0px;
+    /* text-align: center; */
+    margin-left: 160px;
+}
+nav ul li{
+    display: inline-block;
+    /* background-color: hotpink; */
+    padding: 3px;
+    margin-left: 25px;
+    text-align: left;
+}
+nav ul li a{
+    text-decoration: none;
+}
+.headcontainer{
+    width: 69.3%;
+    /* height: 500px; */
+    margin-left: auto;
+    margin-right: auto;
+    /* background-color: green; */
+}
+#down{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.container{
+    width: 69.3%;
+    margin-left: auto;
+    margin-right: auto;
+    /* background-color: yellow; */
+}
+.mincont{
+    width: 62.5%;
+    /* background-color: chartreuse; */
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+}
+#circle img{
+    border-radius: 50%;
+}
+#resize{
+    margin-top: 40px;
+}
+.adk{
+    display: inline-block;
+    /* width: 30%; */
+}
+.ajk{
+ float: left;  
+ width:40%; 
+ /* margin-left: 50px; */
+ margin-top:-55px;
+    margin-left: 50px;
+}
+#p{
+    margin-bottom: 0px;
+}
+#q{
+    margin-top: 0px;
+}
+#footer{
+    background-color:rgb(42, 93, 204);
+    /* padding: 15px; */
+    font-weight: bold;
+    text-transform: capitalize;
+    text-align: center;
+}
+footer #footer p{
+    display: inline-block;
+    padding: 10px;
+    margin-right: 100px;
+    text-align: center;
+}
+.row{
+    display: block;
+}
+.co{
+    float: left;
+    /* height: 200px; */
+    width: 20%;
+}
+section{
+    background-color: gray;
+    height: 650px;
+}
+.ex{
+    display: inline-block;
+    background-color: gray;
+    margin-top: 50px;
+}
+.expo{
+    float: left;
+    /* width: 40%; */
+    /* margin-right: 0px; */
+    /* border-right: 0px; */
+}
+.expo1{
+    float: left;
+    width:35%;
+    margin-top: -170px;
+    margin-left: 200px;
+}
+
+.expo2{
+    float: left;
+    width: 30%;
+}
+.expo2{
+    margin-top: -170px;
+    margin-left: 80px;
+
+}
+.contact{
+    width: 65%;
+    background-color: gray;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+}
+#copyright{
+    margin-top: 80px;
+}
+.formvideo{
+    width: 100%;
+    padding: 5px;
+}

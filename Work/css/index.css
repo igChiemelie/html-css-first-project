@@ -1,0 +1,134 @@
+body,html{
+    margin: 0px;
+}
+.container{
+    width: 75%;
+    /* background-color: hotpink; */
+    /* height: 2000px; */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav{
+    /* background-color: green; */
+    position: relative;
+    /* padding: 10px; */
+    /* width: 50%;
+    margin-left: auto;
+    margin-right: auto; */
+
+}
+
+
+ul li{
+    display: inline-block;
+    padding: 25px;
+
+    position: relative;
+    left: 150px;
+}
+#adj{
+    /* background-color: red; */
+    width: 25%;
+    position: relative;
+    top: -90px;
+}
+#adj p{
+    position: relative;
+    top: -20px;
+}
+
+section{
+    position: relative;
+    /* top: 100px; */
+}
+#circle img{
+    border-radius: 50%;
+    width: 60%;
+}
+#circle{
+    /* position: relative;
+    top: -80px; */
+    float: right;
+}
+.circlep{
+    display: inline-block;
+    width: 50%;
+}
+.cic{
+    /* position: relative;
+    top: 100px; */
+    margin-top: 100px;
+}
+.circlep, .cic{
+    /* margin-top: 50px; */
+}
+#circle2 img {
+    border-radius: 50%;
+    width: 25%;
+}
+
+.block{
+    display: inline;
+}
+#circle2{
+    /* position: relative;
+    top: -80px;
+    left: 300px; */
+}
+.cthing{
+     position: relative;
+    left: 230px;
+    top: -246px; 
+    /* float:left; */
+/* background-color: blue; */
+}
+#sel{
+    position: relative;
+    top: 30px;
+
+}
+footer{
+    background-color: rgb(180, 11, 67);
+
+}
+footer div{
+    text-transform: capitalize;
+    font-size: small;
+     /* margin-left: 10px; */
+    /* margin-right: 10px;  */
+    /* padding: 0px; */
+    /* word-spacing: 5px; */
+    display: inline-block;
+    width: 100%;
+    /* text-align: left; */
+    /* background-color: rgb(180, 11, 67); */
+
+} 
+#skill1{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    background-color: skyblue;
+    line-height: 50px;
+    text-align: center;
+    /* padding: 5px; */
+    margin-left: 74px;
+    /* border-bottom: solid 3px black; */
+
+}
+.li{
+    /* display: inline-block; */
+    float: left;
+    width: 15%;
+    /* padding: 20px; */
+    margin-left: 80px;
+
+}
+.l2{
+    /* display: block; */
+    /* width: 5%; */
+    position: relative;
+    top: 50px;
+    left: -115px
+}
